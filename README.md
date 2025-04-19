@@ -41,5 +41,21 @@ Agents use techniques like:
 
 ---
 
-## 🗂️ File Structure
+# 🔄 Trial Flow
+
+1. 🧾 **Opening Statements**
+2. ⚔️ **Argument Rounds** (configurable)
+3. ❗ **Judge Interjection** (if inconsistencies arise)
+4. ↩️ **Rebuttals**
+5. 🔚 **Closing Statements**
+6. ⚖️ **Reflection + Final Verdict**
+
+---
+
+## 🗃️ Sample `cases.csv` Format
+
+```csv
+id,text
+case_001,"Plaintiff was struck by the defendant's car at 9PM..."
+case_002,"Defendant was accused of embezzling $50,000 from the company..."
 
