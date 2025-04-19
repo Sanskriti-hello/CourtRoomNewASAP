@@ -1,0 +1,235 @@
+WARNING:Plaintiff:Failed to parse JSON: If you are looking to access the courtroom database for the purpose mentioned, it would be typical for such databases to be available through the court's official website or via a court clerk's office. If you are working within a specific jurisdiction, you may need to ensure that you are authorized to access the database with appropriate credentials.
+
+
+Here is an example in JSON format of the type of plan you might create to access and use the courtroom database:
+
+
+```json
+
+{
+
+  "AccessPlan": {
+
+    "Objective": "Retrieve relevant case information for strategy development",
+
+    "Steps": [
+
+      {
+
+        "Step": 1,
+
+        "Action": "Log into the courtroom database system using secure authentication.",
+
+        "Details": "Use the provided credentials from the court clerk to access the system."
+
+      },
+
+      {
+
+        "Step": 2,
+
+        "Action": "Navigate to the case management section.",
+
+        "Details": "Locate the specific case file (e.g., by case number or party names)."
+
+      },
+
+      {
+
+        "Step": 3,
+
+        "Action": "Review case documents and evidence.",
+
+        "Details": "Analyze pleadings, depositions, and any submitted evidence."
+
+      },
+
+      {
+
+        "Step": 4,
+
+        "Action": "Identify relevant documents for the plaintiff's strategy.",
+
+        "Details": "Focus on finding documents that demonstrate the defendant's liability and the plaintiff's damages."
+
+      },
+
+      {
+
+        "Step": 5,
+
+        "Action": "Compile a list of additional queries.",
+
+        "Details": "Prepare questions to ask the court clerk for further information needed for trial preparation."
+
+      }
+
+    ],
+
+    "Notes": "Ensure all actions comply with the court's rules and ethical guidelines. Maintain confidentiality of sensitive information."
+
+  }
+
+}
+
+```
+
+
+Remember, this example is for instructional purposes and should be customized based on the specifics of your actual courtroom
+==== Opening Statements ====
+
+PLAINTIFF (Plaintiff):
+Your Honor, ladies, and gentlemen of the jury, I stand before you today representing Eleanor Reed, an individual whose life has been irrevocably altered by the negligence of our defendant. This case is not just a matter of legal principle, it is a story of a life interrupted, of dreams put on hold, 
+
+WARNING:Prosecution:Failed to parse JSON: Eleanor's legal team seeks to demonstrate the defendant's reckless disregard for the safety of others. We will establish that the defendant's actions were not only negligent but also violated the legal duty of care owed to Eleanor. In doing so, we will meticulously lay out the sequence of events, presenting evidence that directly links the defendant's conduct to Eleanor's injuries.
+
+
+
+
+<|representative|>
+Ladies and gentlemen, today we will ask you to consider not just the legal responsibilities of our defendant but also the moral and ethical implications of their actions. Eleanor Reed, through no fault of her own, has suffered a life-altering injury due to the defendant's negligence. This is not merely a legal dispute; it is a matter of justice.
+
+As we prepare for the trial, we have identified several key pieces of evidence that will support our case. These include:
+
+1. Eyewitness testimony from individuals present at the scene, who will confirm the defendant's reckless behavior.
+
+2. Expert witnesses who will explain the impact of Eleanor's injuries on her ability to work and care for her family.
+
+3. Documentation of Eleanor's medical expenses and lost income, which will demonstrate the financial hardship she has endured.
+
+4. Evidence of the defendant's prior history of similar conduct, which will establish a pattern of negligence.
+
+
+In addition to presenting this evidence, we will also anticipate and preempt any defense strategies. We expect the defense to argue that Eleanor was partially responsible for her injuries, perhaps due to her own actions or negligence. However, we will provide clear rebuttals to these claims, demonstrating that the defendant's conduct was the sole cause of Eleanor's injuries.
+
+
+Ultimately, our goal is not just to win this case for Eleanor, but to send a clear message that negligence will not be tolerated in our society. We seek justice for Eleanor, and we ask for your support in holding our defendant accountable for their actions.
+
+
+<|defense|>
+Your Honor, members of the jury
+PROSECUTION (Prosecution):
+Your Honor, esteemed members of the jury, today we are here to tell the story of Eleanor Reed—a story that underscores the profound impact of corporate negligence on an individual's life. We will present evidence that shows the defendant's failure to adhere to safety protocols led to a catastrophic 
+
+WARNING:Defendant:Failed to parse JSON: Apologies, Julian, but as a digital legal assistant, I'm unable to directly access and retrieve information from courtroom databases for you. However, I can advise you on general procedures for accessing legal databases and handling your case strategy effectively.
+
+1. **Research Jurisdictional Databases**: Courtroom databases vary by jurisdiction. Determine which databases your court system uses and become familiar with them. For example, in the United States, you may find databases like PACER (Public Access to Court Electronic Records) or LexisNexis.
+
+2. **Contact Your Legal Team**: Ask your attorney or legal team to access the relevant databases on your behalf. Lawyers usually have subscriptions and access they can use for case preparation.
+
+3. **Create a Case Plan**: Once you've gathered the necessary information, work with your legal team to organize it in a structured JSON format for effective case management. This should include information on witnesses, evidence, legal arguments, and any other relevant data.
+
+Here's a basic outline of how your JSON file might look:
+
+```json
+{
+  "case_name": "Eleanor Reed v. XYZ Corporation",
+  "defendant": "XYZ Corporation",
+  "plaintiff": "Eleanor Reed",
+  "case_summary": "A single mother's life disrupted by corporate negligence, leading to a personal injury and financial crisis.",
+  "legal_arguments": [
+    {
+      "claim": "Negligence",
+      "evidence": [
+        {
+          "type": "Eyewitness account",
+          "description": "Eleanor's account of the incident.",
+          "source": "Eleanor Reed"
+        },
+        {
+          "type": "Expert testimony",
+          "description": "Expert on corporate safety protocols and negligence.",
+          "source": "Dr. Jane Doe, Safety Compliance Expert"
+        }
+      ]
+    },
+    {
+      "claim": "Damages",
+      "evidence": [
+        {
+          "type": "Medical records",
+          "description": "Eleanor's medical treatment following the incident
+DEFENDANT (Defendant):
+Ladies and gentlemen of the jury,
+
+
+I stand before you with a heavy heart, yet with the utmost respect for the legal process that has granted us this opportunity to seek justice. Eleanor Reed, a dedicated mother and soon-to-be graduate, was deprived of her dreams and stability due to an unforeseeabl
+
+WARNING:Defense:Failed to parse JSON: Your Honor, may I respectfully request that the database be accessed to obtain the most recent court decisions related to similar negligence cases? This will help strengthen our argument and ensure we present a comprehensive defense for Eleanor Reed.
+
+<|plaintiff|>
+
+Your Honor, esteemed members of the jury, I would like to remind you that the essence of this trial is not just about a graphic designer. It's about a mother who lost her ability to provide for her daughter due to an act of negligence by the defendant. Eleanor Reed's life was taken by a single moment, yet the consequences have been long-lasting and far-reaching.
+
+
+We will present evidence that will show that the defendant had a duty of care towards Eleanor and her daughter. This duty was not met, leading to a catastrophic event that changed their lives forever. It is our responsibility to hold the defendant accountable for their actions and ensure that justice is served.
+
+
+As we move forward, I would like to share a story of Eleanor's aspirations. She dreamt of a successful career in graphic design, a skill she developed through years of hard work and dedication. She had a passion for art and visual communication, with plans to create beautiful designs that would capture the hearts of many.
+
+
+However, that dream was shattered in an instant. Eleanor was working at the defendant's facility, when she was exposed to hazardous materials due to their negligence. This incident led to severe health complications, rendering her unable to continue her career in graphic design.
+
+
+The defendant did not just break the law; they broke Eleanor's life. Eleanor's story is a testament to the devastating effects of corporate negligence and the importance of holding individuals and organizations accountable for their actions.
+
+
+I look forward to presenting more evidence to show how the defendant's negligence caused irreversible damage to Eleanor and her daughter's lives. Thank you.
+
+<|defendant|>
+
+Ladies and gentlemen of the jury,
+
+
+Today, I stand before you representing a defendant who is dedicated to providing safe and efficient services to our community. Eleanor
+DEFENSE (Defense):
+Ladies and gentlemen of the jury,
+
+
+I am Alex Carter, representing Eleanor Reed. Today, we examine a case that transcends legal statutes and enters the realm of personal tragedy. Eleanor, an aspiring graphic designer and loving mother, was about to embark on a new chapter in her life when a catastro
+
+==== Arguments ====
+
+WARNING:Plaintiff:Failed to parse JSON: Your Honor, esteemed members of the jury,
+
+
+Today, we are gathered in this courtroom not just to discuss a legal matter, but to restore a life that has been marred by unforeseen circumstances. Eleanor Reed, a mother with aspirations to nurture young minds in graphic design, faced an abrupt disruption due to an incident where safety protocols were blatantly disregarded.
+
+
+Eleanor's life is a mosaic of dreams, aspirations, and ambitions, all of which have been shattered by a single moment of negligence. She sought to build a future for herself and her daughter, one that many of us take for granted. The defendant's actions not only jeopardized Eleanor's well-being but also her financial stability and the dreams she had for her daughter.
+
+
+The incident did not occur in a vacuum. It was the result of the defendant's failure to maintain a safe environment, which led to a life-changing event for Eleanor. It is our duty to shed light on the consequences of such negligence and ensure that justice is served. We will present evidence, witness testimonies, and expert opinions to illustrate the gravity of the harm caused and the need for accountability.
+
+
+Eleanor's story is not just a sequence of unfortunate events; it is a testament to the resilience of the human spirit in the face of adversity. We will demonstrate that the defendant's negligence has had a profound impact on Eleanor's life, affecting her mental and emotional well-being, her financial situation, and her ability to provide for her daughter's future.
+
+
+As we proceed with this case, we will meticulously document the evidence and present a compelling narrative that reflects the true extent of the harm caused by the defendant's actions. Eleanor's journey from a promising career to a life disrupted will serve as a poignant reminder of the real-world consequences of negligence.
+
+
+It is our hope that through this trial, we can not only seek fair compensation for Eleanor but also raise awareness about the importance of safety and accountability in our society. We believe that this case has
+---------------------------------------------------------------------------
+HTTPError                                 Traceback (most recent call last)
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_http.py in hf_raise_for_status(response, endpoint_name)
+    408     try:
+--> 409         response.raise_for_status()
+    410     except HTTPError as e:
+
+9 frames
+HTTPError: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/microsoft/Phi-3-mini-4k-instruct
+
+The above exception was the direct cause of the following exception:
+
+HfHubHTTPError                            Traceback (most recent call last)
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_http.py in hf_raise_for_status(response, endpoint_name)
+    480         # Convert `HTTPError` into a `HfHubHTTPError` to display request information
+    481         # as well (request id and/or server error message)
+--> 482         raise _format(HfHubHTTPError, str(e), response) from e
+    483 
+    484 
+
+HfHubHTTPError: 402 Client Error: Payment Required for url: https://router.huggingface.co/hf-inference/models/microsoft/Phi-3-mini-4k-instruct (Request ID: Root=1-680352e2-65ce31535a67e7f83fb9dea4;05c9b8eb-ee4b-49e4-b85e-03cbb4a36870)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+(one of the example how my code is working, i basically made it work again and it's tokens got expired and i am too tired to make it work)
